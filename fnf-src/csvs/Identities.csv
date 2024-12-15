@@ -1,0 +1,72 @@
+position,code,title,id,stripped_title,faction_code,type_code,sub_types,base_link,uniqueness,side_code,deck_limit,minimum_deck_size,influence_limit,designed_by,stripped_text,text,pack_code,flavor,quantity
+5,91005,Dave Demolitions Expert/Dave New Angeles Most Wanted,dave,Dave Demolitions Expert Dave New Angeles Most Wanted,criminal,identity,"[""natural""]",0,FALSE,runner,1,45,15,Charlie,"Front Side: Dave: Demolitions Expert
+Identity: Natural
+
+When your turn ends, if you've made a successful run on HQ, R&D, and Archives this turn: flip this identity, and trash all installed corp and runner cards.
+
+""The bigger they are...""
+
+
+Back Side: Dave: New Angeles Most Wanted
+
+Identity: Felon
+
+""... the harder they fall""","Front Side: Dave: Demolitions Expert
+Identity: Natural
+
+When your turn ends, if you've made a successful run on HQ, R&D, and Archives this turn: flip this identity, and trash all installed corp and runner cards.
+
+""The bigger they are...""
+
+
+Back Side: Dave: New Angeles Most Wanted
+
+Identity: Felon
+
+""... the harder they fall""",fnf,"Front: \""The bigger they are...\""
+
+Back: \""... the harder they fall\""",1
+9,91009,Katelin: Perfected Design,katelin,Katelin Perfected Design,shaper,identity,"[""cyborg""]",0,false,runner,1,40,15,Charlie,"Your maximum hand size is equal to your unused MU.
+
+Effects that would increase, or decrease your maximum hand size affect your memory limit instead.","Your maximum hand size is equal to your unused MU.
+
+Effects that would increase, or decrease your maximum hand size affect your memory limit instead.",fnf,,1
+14,91014,Ali-ción Labs: Efficiency’s Finest,alicion_labs_efficiencys_finest,Ali-ción Labs: Efficiency’s Finest,haas-bioroid,identity,"[""division""]",,false,corp,1,40,17,Charlie,"**{click}{click}{click}:** Play a non-terminal operation twice, if possible, ignoring any other {click} costs when paying its cost. *(stays in the play area thoughout, unless another effect would change its zone)*","**{click}{click}{click}:** Play a non-terminal operation twice, if possible, ignoring any other {click} costs when paying its cost. *(stays in the play area thoughout, unless another effect would change its zone)*",fnf,The forefront of technology,1
+27,91027,Weyland Consortium: Building the Bedrock,weyland_consortium_building_the_bedrock,Weyland Consortium: Building the Bedrock,weyland-consortium,identity,"[""megacorp""]",,false,corp,1,45,15,Charlie,You start the game with 3 unique Kernel cards installed,You start the game with 3 unique Kernel cards installed,fnf,,1
+18,91018,Takamanohara: Shaping Reality,takamanohara_shaping_reality,Takamanohara Shaping Reality,jinteki,identity,"[""division""]",,false,corp,1,45,15,Charlie,"You draw a starting hand of 4 cards.
+
+**Before your first turn begins:** Search R&D for 2 cards, add them to HQ, then choose 1 card from HQ to shuffle into R&D.
+","You draw a starting hand of 4 cards.
+
+**Before your first turn begins:** Search R&D for 2 cards, add them to HQ, then choose 1 card from HQ to shuffle into R&D.
+",fnf,,1
+22,91022,NBN: Curated Content ,nbn_curated_content,NBN Curated Content ,nbn,identity,"[""megacorp""]",,false,corp,1,45,15,Charlie,"You can look at the top card of R&D anytime.
+
+1{c}: swap the top 2 cards of R&D.
+
+3{c}: draw 1 card. Use this ability only once per turn.","You can look at the top card of R&D anytime.
+
+1{c}: swap the top 2 cards of R&D.
+
+3{c}: draw 1 card. Use this ability only once per turn.",fnf,,1
+1,91001,Ajax: Rebel Initiate/Ajax: Anarchist Extreme,ajax,Ajax Rebel Initiate Ajax Anarchist Extreme,anarch,identity,"[""natural""]",0,false,runner,1,45,15,Charlie,"Front: Ajax: Rebel Initiate
+Identity: Natrual
+
+When you are flatlined on your turn, flip this identity instead of losing the game. The Corp trashes the top X cards of R&D. X is equal to the amount of damage you have suffered this turn.
+
+Back: Ajax: Anarchist Extreme
+Identity: Inhuman
+
+Your maximum hand size is 0 (this cannot be increased, or decreased)
+
+:interrupt: -> If you would be flatlined on your turn, you may trash the top card of your stack and lose any remainng clicks instead of losing the game.","Front: Ajax: Rebel Initiate
+Identity: Natrual
+
+When you are flatlined on your turn, flip this identity instead of losing the game. The Corp trashes the top X cards of R&D. X is equal to the amount of damage you have suffered this turn.
+
+Back: Ajax: Anarchist Extreme
+Identity: Inhuman
+
+Your maximum hand size is 0 (this cannot be increased, or decreased)
+
+:interrupt: -> If you would be flatlined on your turn, you may trash the top card of your stack and lose any remainng clicks instead of losing the game.",fnf,,1

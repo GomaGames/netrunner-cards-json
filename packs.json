@@ -1,5 +1,14 @@
 [
   {
+    "code": "fnf",
+    "cycle_code": "custom-expansions",
+    "date_release": "2024-12-13",
+    "ffg_id": null,
+    "name": "Fire and Fealty",
+    "position": 1,
+    "size": 34
+  },
+  {
     "code": "23s",
     "cycle_code": "flashpoint",
     "date_release": "2016-07-14",

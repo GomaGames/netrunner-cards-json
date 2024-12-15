@@ -1,0 +1,73 @@
+position,code,title,stripped_title,faction_code,type_code,sub_types,cost,strength,faction_cost,uniqueness,side_code,deck_limit,designed_by,memory_cost,stripped_text,text,pack_code,flavor,quantity
+15,91015,Brasília Defense System,Brasília Defense System,haas-bioroid,ice,"[""sentry"",""destroyer""]",2,2,3,false,corp,3,Charlie,,"When you rez this ice during a run on this server, you may pay 1{c} to trash one installed non-icebreaker Runner card with a {trash} ability.
+
+When the runner approaches this ice you may rerez it. *(derez, and then rez this piece of ice paying all costs)*
+
+{sub} end the run unless the runner trashes 1 of their installed cards.","When you rez this ice during a run on this server, you may pay 1{c} to trash one installed non-icebreaker Runner card with a {trash} ability.
+
+When the runner approaches this ice you may rerez it. *(derez, and then rez this piece of ice paying all costs)*
+
+{sub} end the run unless the runner trashes 1 of their installed cards.",fnf,,3
+16,91016,Muriel 3.0,Muriel 3.0,haas-bioroid,ice,"[""bioroid"",""code-gate""]",7,4,0,false,corp,3,Charlie,,"Lose {click}{click}{click}: Break up to 3 subroutines on this ice. Only the Runner can use this ability.
+
+{sub} The Corp gets +1 allotted {click} for their next turn.
+{sub} Gain 1{c}
+{sub} You may draw one card, and/or shuffle one card from Archives or HQ into R&D.
+{sub} end the run","Lose {click}{click}{click}: Break up to 3 subroutines on this ice. Only the Runner can use this ability.
+
+{sub} The Corp gets +1 allotted {click} for their next turn.
+{sub} Gain 1{c}
+{sub} You may draw one card, and/or shuffle one card from Archives or HQ into R&D.
+{sub} end the run",fnf,,3
+28,91028,Archives Kernel,Archives Kernel,weyland-consortium,ice,"[""sentry"",""kernel""]",2,1,0,true,corp,0,Charlie,,"Install only on Archives 
+
+{sub} you may add one card from archives to HQ or shuffle it into R&D.
+
+**Remove this Ice from the game:** Shuffle up to 2 cards from Archives into R&D.
+
+Can't be included within deck building","Install only on Archives 
+
+{sub} you may add one card from archives to HQ or shuffle it into R&D.
+
+**Remove this Ice from the game:** Shuffle up to 2 cards from Archives into R&D.
+
+Can't be included within deck building",fnf,,1
+29,91029,R&D Kernel,R&D Kernel,weyland-consortium,ice,"[""code_gate"",""kernel""]",1,0,0,true,corp,0,Charlie,,"Install only on R&D
+
+When the runner encounters  this ice, you may look at the top card of R&D
+
+{sub} you may draw one card
+
+{trash} shuffle R&D
+
+Can't be included within deck building","Install only on R&D
+
+When the runner encounters  this ice, you may look at the top card of R&D
+
+{sub} you may draw one card
+
+{trash} shuffle R&D
+
+Can't be included within deck building",fnf,,1
+30,91030,HQ Kernel,HQ Kernel,weyland-consortium,ice,"[""barrier"",""kernel""]",2,1,0,true,corp,0,Charlie,,"Install only on HQ
+
+{sub} gain 1{c} and end the run
+
+{trash} The runner may spend {click}, otherwise the run cannot be declared successful. Use this ability only during a run on this server.
+
+Can't be included within deck building","Install only on HQ
+
+{sub} gain 1{c} and end the run
+
+{trash} The runner may spend {click}, otherwise the run cannot be declared successful. Use this ability only during a run on this server.
+
+Can't be included within deck building",fnf,,1
+12,91012,Bloodhound,Bloodhound,shaper,program,"[""icebreaker"",""ai""]",4,2,4,false,runner,3,Charlie,1,"When you install this program, and when your turn begins, you may name a card. This program can only interface with ice matching the last name you chose this way.
+
+Interface -> 1{c}: Break ice subroutine.
+
+1{c}: +2 strength.","When you install this program, and when your turn begins, you may name a card. This program can only interface with ice matching the last name you chose this way.
+
+Interface -> 1{c}: Break ice subroutine.
+
+1{c}: +2 strength.",fnf,,3
