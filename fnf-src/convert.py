@@ -11,22 +11,24 @@ import json
 import os
 import sys
 
-if len(sys.argv) < 2:
-    os.sys.stderr.write("Missing argument 'csv_dir'.\nUsage: python convert.py csv_dir\n")
+if len(sys.argv) < 3:
+    os.sys.stderr.write("Missing arguments.\nUsage: python convert.py csv_path json_path\n")
     os.sys.exit(1)
 
-csv_dir = sys.argv[1]
+csv_path = sys.argv[1]
+json_path = sys.argv[2]
 out = []
 
-for c in os.listdir(csv_dir):
-    file_path = os.path.join(csv_dir, c)
-    if os.path.isfile(file_path):
-        with open(file_path, "r") as file:
-            csv_reader = csv.DictReader(file)
-            for row in csv_reader:
-                # omit empty -------------------------------v
-                out.append({k: v for k, v in row.items() if v})
+if os.path.isfile(csv_path):
+    with open(csv_path, "r") as file:
+        csv_reader = csv.DictReader(file)
+        for row in csv_reader:
+            # omit empty -------------------------------v
+            out.append({k: v for k, v in row.items() if v})
 
 out.sort(key=lambda k : k['code'])
 
-print(json.dumps(out, indent=2))
+with open(json_path, "w") as file:
+    file.write(json.dumps(out, indent=2))
+
+print("Wrote json to %s" % json_path)
