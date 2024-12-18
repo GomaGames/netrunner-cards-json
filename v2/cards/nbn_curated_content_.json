@@ -1,0 +1,27 @@
+{
+  "position": "22",
+  "code": "91022",
+  "title": "NBN: Curated Content ",
+  "faction_code": "nbn",
+  "type_code": "identity",
+  "designed_by": "Charlie",
+  "text": "You can look at the top card of R&D at any time.<br><strong>1[credit]:</strong> Swap the top 2 cards of R&D.<br><strong>3[credit]:</strong> Draw 1 card. Use this ability only once per turn.",
+  "flavor": "<i>GLS Systems Procuring Cyberspace.</i>",
+  "id": "nbn_curated_content_",
+  "subtypes": [
+    "megacorp"
+  ],
+  "keywords": "Megacorp",
+  "uniqueness": "false",
+  "side_code": "corp",
+  "deck_limit": 1,
+  "quantity": 1,
+  "minimum_deck_size": 45,
+  "influence_limit": 15,
+  "pack_code": "fnf",
+  "stripped_title": "NBN: Curated Content ",
+  "is_unique": true,
+  "card_type_id": "identity",
+  "side_id": "corp",
+  "faction_id": "nbn"
+}

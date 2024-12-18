@@ -1,0 +1,28 @@
+{
+  "position": "5",
+  "code": "91005",
+  "title": "Dave: Demolitions Expert/Dave: New Angeles Most Wanted",
+  "faction_code": "criminal",
+  "type_code": "identity",
+  "designed_by": "Charlie",
+  "text": "When your turn ends, if you've made a successful run on HQ, R&D, and Archives this turn, flip this identity and trash all installed Corp and Runner cards.<br><br>Flip side:<br>Dave: New Angeles Most Wanted<br>Identity: Felon<br><br><i>...the harder they fall\"</i>",
+  "flavor": "<i>\"The bigger they are...</i>Flip side:<i>...the harder they fall\"</i>",
+  "id": "dave_demolitions_expert-dave_new_angeles_most_wanted",
+  "subtypes": [
+    "natural"
+  ],
+  "keywords": "Natural",
+  "uniqueness": "false",
+  "side_code": "runner",
+  "deck_limit": 1,
+  "quantity": 1,
+  "base_link": 0,
+  "minimum_deck_size": 45,
+  "influence_limit": 15,
+  "pack_code": "fnf",
+  "stripped_title": "Dave: Demolitions Expert/Dave: New Angeles Most Wanted",
+  "is_unique": true,
+  "card_type_id": "identity",
+  "side_id": "runner",
+  "faction_id": "criminal"
+}

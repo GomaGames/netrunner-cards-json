@@ -1,0 +1,29 @@
+{
+  "position": "30",
+  "code": "91030",
+  "title": "R&D Kernel",
+  "faction_code": "weyland-consortium",
+  "type_code": "ice",
+  "designed_by": "Charlie",
+  "text": "Install only protecting HQ.<br>[trash]<strong>:</strong> The Runner may spend [click], otherwise the run cannot be declared successful. Use this ability only during a run on this server.<br>[subroutine] Gain 1[credit]. End the run.<br>Cannot be included within deck building.",
+  "id": "r&d_kernel",
+  "subtypes": [
+    "code_gate",
+    "kernel"
+  ],
+  "keywords": "Code Gate - Kernel",
+  "cost": 1,
+  "strength": 0,
+  "faction_cost": "0",
+  "uniqueness": "true",
+  "side_code": "corp",
+  "deck_limit": 0,
+  "quantity": 1,
+  "pack_code": "fnf",
+  "stripped_title": "R&D Kernel",
+  "is_unique": true,
+  "card_type_id": "ice",
+  "side_id": "corp",
+  "faction_id": "weyland_consortium",
+  "influence_cost": 0
+}

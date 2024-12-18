@@ -1,0 +1,27 @@
+{
+  "position": "27",
+  "code": "91027",
+  "title": "Weyland Consortium: Building the Bedrock",
+  "faction_code": "weyland-consortium",
+  "type_code": "identity",
+  "designed_by": "Charlie",
+  "text": "You start the game with 3 differently named kernel cards installed. <i>(They begin unrezzed.)</i>",
+  "flavor": "<i>Secure Cyberspace.</i>",
+  "id": "weyland_consortium_building_the_bedrock",
+  "subtypes": [
+    "megacorp"
+  ],
+  "keywords": "Megacorp",
+  "uniqueness": "false",
+  "side_code": "corp",
+  "deck_limit": 1,
+  "quantity": 1,
+  "minimum_deck_size": 45,
+  "influence_limit": 15,
+  "pack_code": "fnf",
+  "stripped_title": "Weyland Consortium: Building the Bedrock",
+  "is_unique": true,
+  "card_type_id": "identity",
+  "side_id": "corp",
+  "faction_id": "weyland_consortium"
+}

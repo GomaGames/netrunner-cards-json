@@ -1,0 +1,28 @@
+{
+  "position": "3",
+  "code": "91003",
+  "title": "Ran Somewhere ATK",
+  "faction_code": "anarch",
+  "type_code": "program",
+  "designed_by": "Charlie",
+  "text": "When you install this program place 5 virus counters on it.<br>Instead of breaching a remote server, if this program is not already hosted in a server, you may host this program in the root of the attacked server.<br>All Corp cards in the root of a server hosting this program lose all abilities.<br>The Corp cannot install, rez, score, trash, or advance its cards in or protecting a server hosting this.<br>0[credit]: Purge virus counters. The Corp loses 1[credit] for each virus counter removed. Trash this program. Only the Corp can use this ability and only while this is hosted in a server.",
+  "id": "ran_somewhere_atk",
+  "subtypes": [
+    "virus"
+  ],
+  "keywords": "Virus",
+  "cost": 1,
+  "faction_cost": "5",
+  "uniqueness": "false",
+  "side_code": "runner",
+  "deck_limit": 3,
+  "quantity": 3,
+  "memory_cost": 1,
+  "pack_code": "fnf",
+  "stripped_title": "Ran Somewhere ATK",
+  "is_unique": true,
+  "card_type_id": "program",
+  "side_id": "runner",
+  "faction_id": "anarch",
+  "influence_cost": 5
+}

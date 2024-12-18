@@ -187,5 +187,13 @@
     "name": "Liberation",
     "position": 33,
     "released_by": "null_signal_games"
+  },
+  {
+    "id": "custom_expansions",
+    "legacy_code": "custom-expansions",
+    "name": "Custom Expansions",
+    "position": 34,
+    "rotated": false,
+    "size": 1
   }
 ]

@@ -1,0 +1,28 @@
+{
+  "position": "2",
+  "code": "91002",
+  "title": "Ashes of an Empire",
+  "faction_code": "anarch",
+  "type_code": "event",
+  "designed_by": "Charlie",
+  "text": "You may play this event from your heap.<br>After you resolve this event, end your action phase.<br>Make a run. When that run ends, forfeit each agenda stolen during the run and trash the top X cards of R&D where X is equal to the number of agenda points forfeited this way. If any agendas are forfeited this way the Corp must forfeit their next turn.<br>Remove this event from the game.",
+  "id": "ashes_of_an_empire",
+  "subtypes": [
+    "run",
+    "terminal"
+  ],
+  "keywords": "Run - Terminal",
+  "cost": 0,
+  "faction_cost": "3",
+  "uniqueness": "false",
+  "side_code": "runner",
+  "deck_limit": 3,
+  "quantity": 3,
+  "pack_code": "fnf",
+  "stripped_title": "Ashes of an Empire",
+  "is_unique": true,
+  "card_type_id": "event",
+  "side_id": "runner",
+  "faction_id": "anarch",
+  "influence_cost": 3
+}

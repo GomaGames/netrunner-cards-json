@@ -1,0 +1,28 @@
+{
+  "position": "1",
+  "code": "91001",
+  "title": "Ajax: Rebel Initiate/Ajax: Anarchist Extreme",
+  "faction_code": "anarch",
+  "type_code": "identity",
+  "designed_by": "Charlie",
+  "text": "[interrupt] \u2192 When you are flatlined on your turn, flip this identity instead of losing the game. The Corp trashes the top X cards of R&D. X is equal to the amount of damage you have suffered this turn.<br><br>Flip side:<br>Ajax: Anarchist Extreme<br>Identity: Inhuman<br><br>Your maximum hand size is 0. This cannot be modified.<br>[interrupt] \u2192 If you would be flatlined on your turn, you may trash the top card of your stack and lose any remaining clicks instead of losing the game.",
+  "flavor": "<i>No rest! No peace!</i>Flip side:<i>WHATEVER THE COST!</i>",
+  "id": "ajax_rebel_initiate-ajax_anarchist_extreme",
+  "subtypes": [
+    "natural"
+  ],
+  "keywords": "Natural",
+  "uniqueness": "false",
+  "side_code": "runner",
+  "deck_limit": 1,
+  "quantity": 1,
+  "base_link": 0,
+  "minimum_deck_size": 45,
+  "influence_limit": 15,
+  "pack_code": "fnf",
+  "stripped_title": "Ajax: Rebel Initiate/Ajax: Anarchist Extreme",
+  "is_unique": true,
+  "card_type_id": "identity",
+  "side_id": "runner",
+  "faction_id": "anarch"
+}

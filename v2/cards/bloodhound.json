@@ -1,0 +1,31 @@
+{
+  "position": "12",
+  "code": "91012",
+  "title": "Bloodhound",
+  "faction_code": "shaper",
+  "type_code": "program",
+  "designed_by": "Charlie",
+  "text": "When you install this program and when your turn begins, you may name a card. This program can only interface with ice matching the name you last chose this way.<br>Interface \u2192 <strong>1[credit]:</strong> Break 1 subroutine.<br><strong>1[credit]:</strong> +2 strength.",
+  "flavor": "<i>On the scent.</i>",
+  "id": "bloodhound",
+  "subtypes": [
+    "icebreaker",
+    "ai"
+  ],
+  "keywords": "Icebreaker - AI",
+  "cost": 4,
+  "strength": 2,
+  "faction_cost": "4",
+  "uniqueness": "false",
+  "side_code": "runner",
+  "deck_limit": 3,
+  "quantity": 3,
+  "memory_cost": 1,
+  "pack_code": "fnf",
+  "stripped_title": "Bloodhound",
+  "is_unique": true,
+  "card_type_id": "program",
+  "side_id": "runner",
+  "faction_id": "shaper",
+  "influence_cost": 4
+}

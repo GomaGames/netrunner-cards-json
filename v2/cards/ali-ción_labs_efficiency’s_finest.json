@@ -1,0 +1,27 @@
+{
+  "position": "14",
+  "code": "91014",
+  "title": "Ali-ci\u00f3n Labs: Efficiency\u2019s Finest",
+  "faction_code": "haas-bioroid",
+  "type_code": "identity",
+  "designed_by": "Charlie",
+  "text": "[click], [click], [click]: Play 1 non-<strong>terminal</strong> operation from HQ. Instead of trashing or removing it from the game, you may replay it once by paying its cost. Ignore any additional [click] costs while resolving this ability.",
+  "flavor": "<i>The forefront of technology.</i>",
+  "id": "ali-ci\u00f3n_labs_efficiency\u2019s_finest",
+  "subtypes": [
+    "division"
+  ],
+  "keywords": "Division",
+  "uniqueness": "false",
+  "side_code": "corp",
+  "deck_limit": 1,
+  "quantity": 1,
+  "minimum_deck_size": 40,
+  "influence_limit": 17,
+  "pack_code": "fnf",
+  "stripped_title": "Ali-ci\u00f3n Labs: Efficiency\u2019s Finest",
+  "is_unique": true,
+  "card_type_id": "identity",
+  "side_id": "corp",
+  "faction_id": "haas_bioroid"
+}

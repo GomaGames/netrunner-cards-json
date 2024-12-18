@@ -1,0 +1,29 @@
+{
+  "position": "21",
+  "code": "91021",
+  "title": "Coercion",
+  "faction_code": "jinteki",
+  "type_code": "operation",
+  "designed_by": "Charlie",
+  "text": "Play only if the Runner has at least 2 tags.<br>After you resolve this operation, your action phase ends.<br>Choose a server. The first [click] the Runner spends on their next turn must be spent to take the basic action to run that server. They cannot jack out during that run.",
+  "flavor": "<i>Your mind will never be free.</i>",
+  "id": "coercion",
+  "subtypes": [
+    "gray_ops"
+  ],
+  "keywords": "Gray Ops",
+  "cost": 1,
+  "faction_cost": "4",
+  "uniqueness": "false",
+  "side_code": "corp",
+  "deck_limit": 3,
+  "quantity": 3,
+  "trash_cost": 2,
+  "pack_code": "fnf",
+  "stripped_title": "Coercion",
+  "is_unique": true,
+  "card_type_id": "operation",
+  "side_id": "corp",
+  "faction_id": "jinteki",
+  "influence_cost": 4
+}

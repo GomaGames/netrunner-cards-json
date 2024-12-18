@@ -1,5 +1,17 @@
 [
   {
+    "card_cycle_id": "custom_expansions",
+    "card_set_type_id": "expansion",
+    "id": "fire_and_fealty",
+    "legacy_code": "fnf",
+    "date_release": "2024-12-13",
+    "ffg_id": null,
+    "name": "Fire and Fealty",
+    "position": 1,
+    "released_by": "charlie",
+    "size": 35
+  },
+  {
     "card_cycle_id": "draft",
     "card_set_type_id": "draft",
     "date_release": "2012-09-07",

@@ -1,0 +1,23 @@
+{
+  "position": "26",
+  "code": "91026",
+  "title": "Dividends",
+  "faction_code": "nbn",
+  "type_code": "operation",
+  "designed_by": "Charlie",
+  "text": "Gain 2[credit], [click], and draw 1 card.<br>Remove this operation from the game.<br>Cannot be included within deck building.",
+  "id": "dividends",
+  "cost": 0,
+  "faction_cost": "0",
+  "uniqueness": "false",
+  "side_code": "corp",
+  "deck_limit": 0,
+  "quantity": 6,
+  "pack_code": "fnf",
+  "stripped_title": "Dividends",
+  "is_unique": true,
+  "card_type_id": "operation",
+  "side_id": "corp",
+  "faction_id": "nbn",
+  "influence_cost": 0
+}

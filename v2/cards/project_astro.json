@@ -1,0 +1,27 @@
+{
+  "position": "23",
+  "code": "91023",
+  "title": "Project Astro",
+  "faction_code": "nbn",
+  "type_code": "agenda",
+  "designed_by": "Charlie",
+  "text": "When you score this agenda, place 1 agenda counter on it for each hosted advancement counter past 3.<br><strong>Hosted agenda counter:</strong> Place 1 advancement counter on an installed card.",
+  "flavor": "<i>Remastering the AstroScript Program.</i>",
+  "id": "project_astro",
+  "subtypes": [
+    "research"
+  ],
+  "keywords": "Research",
+  "uniqueness": "false",
+  "side_code": "corp",
+  "deck_limit": 3,
+  "quantity": 3,
+  "advancement_cost": "3",
+  "agenda_points": 2,
+  "pack_code": "fnf",
+  "stripped_title": "Project Astro",
+  "is_unique": true,
+  "card_type_id": "agenda",
+  "side_id": "corp",
+  "faction_id": "nbn"
+}

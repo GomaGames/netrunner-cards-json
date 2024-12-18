@@ -451,6 +451,7 @@
       "down_the_white_nile",
       "downfall",
       "earths_scion",
+      "fire_and_fealty",
       "free_mars",
       "kampala_ascendent",
       "magnum_opus",
@@ -472,6 +473,6 @@
     ],
     "format_id": "standard",
     "id": "rotation_2023",
-    "name": "Sixth Rotation"
+    "name": "Sixth Rotation + Custom Expansions"
   }
 ]

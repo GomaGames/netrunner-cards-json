@@ -418,5 +418,9 @@
   {
     "id": "weapon",
     "name": "Weapon"
+  },
+  {
+    "id": "kernel",
+    "name": "Kernel"
   }
 ]

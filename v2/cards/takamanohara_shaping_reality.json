@@ -1,0 +1,27 @@
+{
+  "position": "18",
+  "code": "91018",
+  "title": "Takamanohara: Shaping Reality",
+  "faction_code": "jinteki",
+  "type_code": "identity",
+  "designed_by": "Charlie",
+  "text": "You draw a starting hand of 4 cards.<br>Before taking your first turn, search R&D for 2 cards and add them to HQ. Shuffle 1 card from HQ into R&D.",
+  "flavor": "<i>Where gods are born.</i>",
+  "id": "takamanohara_shaping_reality",
+  "subtypes": [
+    "division"
+  ],
+  "keywords": "Division",
+  "uniqueness": "false",
+  "side_code": "corp",
+  "deck_limit": 1,
+  "quantity": 1,
+  "minimum_deck_size": 45,
+  "influence_limit": 15,
+  "pack_code": "fnf",
+  "stripped_title": "Takamanohara: Shaping Reality",
+  "is_unique": true,
+  "card_type_id": "identity",
+  "side_id": "corp",
+  "faction_id": "jinteki"
+}

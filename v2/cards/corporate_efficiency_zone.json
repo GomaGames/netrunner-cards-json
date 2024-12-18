@@ -1,0 +1,29 @@
+{
+  "position": "17",
+  "code": "91017",
+  "title": "Corporate Efficiency Zone",
+  "faction_code": "haas-bioroid",
+  "type_code": "upgrade",
+  "designed_by": "Charlie",
+  "text": "When your turn begins you may choose another card in the root of this server to resolve its beginning of turn triggers an additional time.<br>Limit 1 <strong>region</strong> per server.",
+  "flavor": "<i>It's 9 o'clock somewhere.</i>",
+  "id": "corporate_efficiency_zone",
+  "subtypes": [
+    "region"
+  ],
+  "keywords": "Region",
+  "cost": 1,
+  "faction_cost": "2",
+  "uniqueness": "false",
+  "side_code": "corp",
+  "deck_limit": 3,
+  "quantity": 3,
+  "trash_cost": 3,
+  "pack_code": "fnf",
+  "stripped_title": "Corporate Efficiency Zone",
+  "is_unique": true,
+  "card_type_id": "upgrade",
+  "side_id": "corp",
+  "faction_id": "haas_bioroid",
+  "influence_cost": 2
+}

@@ -1,0 +1,29 @@
+{
+  "position": "16",
+  "code": "91016",
+  "title": "Muriel 3.0",
+  "faction_code": "haas-bioroid",
+  "type_code": "ice",
+  "designed_by": "Charlie",
+  "text": "<strong>Lose [click], [click], [click]:</strong> Break up to 3 subroutines on this ice. Only the Runner can use this ability.<br>[subroutine] The Corp gets +1 allotted [click] for their next turn.<br>[subroutine] Gain 1[credit].<br>[subroutine] You may draw one card, and/or shuffle one card from Archives or HQ into R&D.<br>[subroutine] End the run.",
+  "id": "muriel_3.0",
+  "subtypes": [
+    "bioroid",
+    "code_gate"
+  ],
+  "keywords": "Bioroid - Code Gate",
+  "cost": 7,
+  "strength": 4,
+  "faction_cost": "4",
+  "uniqueness": "false",
+  "side_code": "corp",
+  "deck_limit": 3,
+  "quantity": 3,
+  "pack_code": "fnf",
+  "stripped_title": "Muriel 3.0",
+  "is_unique": true,
+  "card_type_id": "ice",
+  "side_id": "corp",
+  "faction_id": "haas_bioroid",
+  "influence_cost": 4
+}

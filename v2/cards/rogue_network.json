@@ -1,0 +1,29 @@
+{
+  "position": "4",
+  "code": "91004",
+  "title": "Rogue Network",
+  "faction_code": "anarch",
+  "type_code": "resource",
+  "designed_by": "Charlie",
+  "text": "Limit 1 hosted tag.<br>Whenever you take a tag, you may host it on this resource. <i>(The tag is not considered active.)</i><br>You may remove hosted tags as if they were yours.<br>The Corp may trash this resource with the basic action while it is hosting a tag.<br>[trash]<strong>, hosted tag:</strong> Take 1 tag. Choose 1 installed Corp card. Until your next turn begins, it costs 1[credit] more to rez for each tag you have at that time.",
+  "flavor": "<i>Catch us if you can</i>",
+  "id": "rogue_network",
+  "subtypes": [
+    "connection",
+    "virtual"
+  ],
+  "keywords": "Connection - Virtual",
+  "cost": 1,
+  "faction_cost": "2",
+  "uniqueness": "false",
+  "side_code": "runner",
+  "deck_limit": 3,
+  "quantity": 3,
+  "pack_code": "fnf",
+  "stripped_title": "Rogue Network",
+  "is_unique": true,
+  "card_type_id": "resource",
+  "side_id": "runner",
+  "faction_id": "anarch",
+  "influence_cost": 2
+}

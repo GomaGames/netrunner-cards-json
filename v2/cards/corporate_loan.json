@@ -1,0 +1,29 @@
+{
+  "position": "32",
+  "code": "91032",
+  "title": "Corporate Loan",
+  "faction_code": "weyland-consortium",
+  "type_code": "operation",
+  "designed_by": "Charlie",
+  "text": "Gain 6[credit].<br>When your turn begins, if this card is faceup in Archives, remove it from the game and lose 3[credit].",
+  "flavor": "<i>Inadrobart: fixing today's problems.</i>",
+  "id": "corporate_loan",
+  "subtypes": [
+    "transaction"
+  ],
+  "keywords": "Transaction",
+  "cost": 0,
+  "faction_cost": "2",
+  "uniqueness": "false",
+  "side_code": "corp",
+  "deck_limit": 3,
+  "quantity": 3,
+  "trash_cost": 3,
+  "pack_code": "fnf",
+  "stripped_title": "Corporate Loan",
+  "is_unique": true,
+  "card_type_id": "operation",
+  "side_id": "corp",
+  "faction_id": "weyland_consortium",
+  "influence_cost": 2
+}

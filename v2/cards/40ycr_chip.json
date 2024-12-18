@@ -1,0 +1,28 @@
+{
+  "position": "35",
+  "code": "91035",
+  "title": "40YCR Chip",
+  "faction_code": "criminal",
+  "type_code": "hardware",
+  "designed_by": "Eli & Charlie",
+  "text": "[trash]<strong>:</strong> Run any server. The Corp may pay 5[credit] to prevent this. Use this ability only in the paid ability window immediately after someone finishes taking an action.",
+  "flavor": "<i>\"One mine of many.\" - New Angeles Most Wanted</i>",
+  "id": "40ycr_chip",
+  "subtypes": [
+    "weapon"
+  ],
+  "keywords": "Weapon",
+  "cost": 2,
+  "faction_cost": "3",
+  "uniqueness": "false",
+  "side_code": "runner",
+  "deck_limit": 3,
+  "quantity": 3,
+  "pack_code": "fnf",
+  "stripped_title": "40YCR Chip",
+  "is_unique": true,
+  "card_type_id": "hardware",
+  "side_id": "runner",
+  "faction_id": "criminal",
+  "influence_cost": 3
+}

@@ -1,0 +1,27 @@
+{
+  "position": "6",
+  "code": "91006",
+  "title": "Gear Shift",
+  "faction_code": "criminal",
+  "type_code": "event",
+  "designed_by": "Charlie",
+  "text": "Play only as your first click.<br>Set aside all the cards in your grip facedown.<br>Draw 4 cards.<br>When your discard phase ends, shuffle your grip into your stack and add the cards set aside with this event back to your grip.",
+  "id": "gear_shift",
+  "subtypes": [
+    "priority"
+  ],
+  "keywords": "Priority",
+  "cost": 1,
+  "faction_cost": "3",
+  "uniqueness": "false",
+  "side_code": "runner",
+  "deck_limit": 3,
+  "quantity": 3,
+  "pack_code": "fnf",
+  "stripped_title": "Gear Shift",
+  "is_unique": true,
+  "card_type_id": "event",
+  "side_id": "runner",
+  "faction_id": "criminal",
+  "influence_cost": 3
+}

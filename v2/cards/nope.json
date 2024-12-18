@@ -1,0 +1,23 @@
+{
+  "position": "19",
+  "code": "91019",
+  "title": "Nope",
+  "faction_code": "jinteki",
+  "type_code": "agenda",
+  "designed_by": "Charlie",
+  "text": "Threat 3 \u2192 You can score this agenda during any paid ability window. <i>(Including on the runner\u2019s turn.)</i>",
+  "flavor": "<i>I don't think so...</i>",
+  "id": "nope",
+  "uniqueness": "false",
+  "side_code": "corp",
+  "deck_limit": 3,
+  "quantity": 3,
+  "advancement_cost": "2",
+  "agenda_points": 1,
+  "pack_code": "fnf",
+  "stripped_title": "Nope",
+  "is_unique": true,
+  "card_type_id": "agenda",
+  "side_id": "corp",
+  "faction_id": "jinteki"
+}

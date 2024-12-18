@@ -1,0 +1,29 @@
+{
+  "position": "31",
+  "code": "91031",
+  "title": "Public Intimidation",
+  "faction_code": "weyland-consortium",
+  "type_code": "asset",
+  "designed_by": "Charlie & Abraham",
+  "text": "The first time you take a bad publicity each turn, do 2 meat damage if this server is not protected by ice.<br>When the runner trashes this asset from anywhere, they must suffer 2 meat damage, unless they remove a bad publicity.",
+  "flavor": "<i>License to enforce.</i>",
+  "id": "public_intimidation",
+  "subtypes": [
+    "political"
+  ],
+  "keywords": "Political",
+  "cost": 1,
+  "faction_cost": "3",
+  "uniqueness": "true",
+  "side_code": "corp",
+  "deck_limit": 3,
+  "quantity": 3,
+  "trash_cost": 2,
+  "pack_code": "fnf",
+  "stripped_title": "Public Intimidation",
+  "is_unique": true,
+  "card_type_id": "asset",
+  "side_id": "corp",
+  "faction_id": "weyland_consortium",
+  "influence_cost": 3
+}

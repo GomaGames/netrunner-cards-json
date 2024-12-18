@@ -1,0 +1,23 @@
+{
+  "position": "24",
+  "code": "91024",
+  "title": "Superposition",
+  "faction_code": "nbn",
+  "type_code": "agenda",
+  "designed_by": "Charlie",
+  "text": "[interrupt] \u2192 When you would score this agenda, you may search R&D for 1 agenda with an advancement requirement equal to or less than 4. If you do, score that agenda instead and shuffle this agenda into R&D.",
+  "flavor": "<i>Schr\u00f6dinger's QPM.</i>",
+  "id": "superposition",
+  "uniqueness": "false",
+  "side_code": "corp",
+  "deck_limit": 3,
+  "quantity": 3,
+  "advancement_cost": "4",
+  "agenda_points": 2,
+  "pack_code": "fnf",
+  "stripped_title": "Superposition",
+  "is_unique": true,
+  "card_type_id": "agenda",
+  "side_id": "corp",
+  "faction_id": "nbn"
+}

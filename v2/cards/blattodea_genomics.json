@@ -1,0 +1,29 @@
+{
+  "position": "20",
+  "code": "91020",
+  "title": "Blattodea Genomics",
+  "faction_code": "jinteki",
+  "type_code": "asset",
+  "designed_by": "Charlie",
+  "text": "You can advance this asset.<br>The trash cost of each card is increased by 1 for each hosted advancement counter.",
+  "flavor": "<i>Capturing nature's resiliency.</i>",
+  "id": "blattodea_genomics",
+  "subtypes": [
+    "research"
+  ],
+  "keywords": "Research",
+  "cost": 1,
+  "faction_cost": "4",
+  "uniqueness": "false",
+  "side_code": "corp",
+  "deck_limit": 3,
+  "quantity": 3,
+  "trash_cost": 1,
+  "pack_code": "fnf",
+  "stripped_title": "Blattodea Genomics",
+  "is_unique": true,
+  "card_type_id": "asset",
+  "side_id": "corp",
+  "faction_id": "jinteki",
+  "influence_cost": 4
+}

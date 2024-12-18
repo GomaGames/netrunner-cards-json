@@ -1,0 +1,29 @@
+{
+  "position": "28",
+  "code": "91028",
+  "title": "Archives Kernel",
+  "faction_code": "weyland-consortium",
+  "type_code": "ice",
+  "designed_by": "Charlie",
+  "text": "Install only protecting Archives.<br><strong>Remove this ice from the game:</strong> Shuffle up to 2 cards from Archives into R&D.<br>[subroutine] You may choose one card in Archives to add to HQ or shuffle into R&D.<br>Cannot be included within deck building.",
+  "id": "archives_kernel",
+  "subtypes": [
+    "sentry",
+    "kernel"
+  ],
+  "keywords": "Sentry - Kernel",
+  "cost": 2,
+  "strength": 1,
+  "faction_cost": "0",
+  "uniqueness": "true",
+  "side_code": "corp",
+  "deck_limit": 0,
+  "quantity": 1,
+  "pack_code": "fnf",
+  "stripped_title": "Archives Kernel",
+  "is_unique": true,
+  "card_type_id": "ice",
+  "side_id": "corp",
+  "faction_id": "weyland_consortium",
+  "influence_cost": 0
+}

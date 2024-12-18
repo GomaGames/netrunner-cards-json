@@ -1,0 +1,29 @@
+{
+  "position": "29",
+  "code": "91029",
+  "title": "HQ Kernel",
+  "faction_code": "weyland-consortium",
+  "type_code": "ice",
+  "designed_by": "Charlie",
+  "text": "Install only protecting R&D.<br>When the Runner encounters this ice, you may look at the top card of R&D.<br>[trash]<strong>:</strong> Shuffle R&D.<br>[subroutine] You may draw one card.<br>Cannot be included within deck building.",
+  "id": "hq_kernel",
+  "subtypes": [
+    "barrier",
+    "kernel"
+  ],
+  "keywords": "Barrier - Kernel",
+  "cost": 2,
+  "strength": 1,
+  "faction_cost": "0",
+  "uniqueness": "true",
+  "side_code": "corp",
+  "deck_limit": 0,
+  "quantity": 1,
+  "pack_code": "fnf",
+  "stripped_title": "HQ Kernel",
+  "is_unique": true,
+  "card_type_id": "ice",
+  "side_id": "corp",
+  "faction_id": "weyland_consortium",
+  "influence_cost": 0
+}

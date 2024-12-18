@@ -1,0 +1,28 @@
+{
+  "position": "7",
+  "code": "91007",
+  "title": "Turtles",
+  "faction_code": "criminal",
+  "type_code": "hardware",
+  "designed_by": "Charlie",
+  "text": "+1[mu]<br>Whenever you make a successful run, you may either host a copy of Turtles from your grip faceup on this Hardware or add a hosted faceup copy of Turtles to the bottom of your stack to draw 2 cards.<br>Limit 1 <strong>console</strong> per player<br>Limit 6 per deck.",
+  "flavor": "<i>All the way down.</i>",
+  "id": "turtles",
+  "subtypes": [
+    "console"
+  ],
+  "keywords": "Console",
+  "cost": 1,
+  "faction_cost": "2",
+  "uniqueness": "true",
+  "side_code": "runner",
+  "deck_limit": 6,
+  "quantity": 6,
+  "pack_code": "fnf",
+  "stripped_title": "Turtles",
+  "is_unique": true,
+  "card_type_id": "hardware",
+  "side_id": "runner",
+  "faction_id": "criminal",
+  "influence_cost": 2
+}

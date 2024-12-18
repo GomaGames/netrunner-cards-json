@@ -1,0 +1,29 @@
+{
+  "position": "10",
+  "code": "91010",
+  "title": "Efficiency Chip",
+  "faction_code": "shaper",
+  "type_code": "hardware",
+  "designed_by": "Charlie",
+  "text": "[interrupt] \u2192 While you are searching your stack for a program, you may reveal this from your stack and add it to your grip. Use the ability of only one copy of Efficiency Chip in this way per turn.<br>Install Efficiency Chip on a program. Lower that program's MU cost by 1. <i>(Minimum 0.)</i>",
+  "flavor": "<i>Let's download some RAM.</i>",
+  "id": "efficiency_chip",
+  "subtypes": [
+    "chip",
+    "mod"
+  ],
+  "keywords": "Chip - Mod",
+  "cost": 1,
+  "faction_cost": "1",
+  "uniqueness": "false",
+  "side_code": "runner",
+  "deck_limit": 3,
+  "quantity": 3,
+  "pack_code": "fnf",
+  "stripped_title": "Efficiency Chip",
+  "is_unique": true,
+  "card_type_id": "hardware",
+  "side_id": "runner",
+  "faction_id": "shaper",
+  "influence_cost": 1
+}

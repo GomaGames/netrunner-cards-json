@@ -1,0 +1,342 @@
+[
+  {
+    "card_id": "ajax_rebel_initiate-ajax_anarchist_extreme",
+    "card_set_id": "fire_and_fealty",
+    "id": "91001",
+    "illustrator": "",
+    "position": 1,
+    "quantity": 1,
+    "released_by": "santa",
+    "flavor": "<i>No rest! No peace!</i>Flip side:<i>WHATEVER THE COST!</i>"
+  },
+  {
+    "card_id": "ashes_of_an_empire",
+    "card_set_id": "fire_and_fealty",
+    "id": "91002",
+    "illustrator": "",
+    "position": 2,
+    "quantity": 3,
+    "released_by": "santa"
+  },
+  {
+    "card_id": "ran_somewhere_atk",
+    "card_set_id": "fire_and_fealty",
+    "id": "91003",
+    "illustrator": "",
+    "position": 3,
+    "quantity": 3,
+    "released_by": "santa"
+  },
+  {
+    "card_id": "rogue_network",
+    "card_set_id": "fire_and_fealty",
+    "id": "91004",
+    "illustrator": "",
+    "position": 4,
+    "quantity": 3,
+    "released_by": "santa",
+    "flavor": "<i>Catch us if you can</i>"
+  },
+  {
+    "card_id": "dave_demolitions_expert-dave_new_angeles_most_wanted",
+    "card_set_id": "fire_and_fealty",
+    "id": "91005",
+    "illustrator": "",
+    "position": 5,
+    "quantity": 1,
+    "released_by": "santa",
+    "flavor": "<i>\"The bigger they are...</i>Flip side:<i>...the harder they fall\"</i>"
+  },
+  {
+    "card_id": "gear_shift",
+    "card_set_id": "fire_and_fealty",
+    "id": "91006",
+    "illustrator": "",
+    "position": 6,
+    "quantity": 3,
+    "released_by": "santa"
+  },
+  {
+    "card_id": "turtles",
+    "card_set_id": "fire_and_fealty",
+    "id": "91007",
+    "illustrator": "",
+    "position": 7,
+    "quantity": 6,
+    "released_by": "santa",
+    "flavor": "<i>All the way down.</i>"
+  },
+  {
+    "card_id": "light_the_way",
+    "card_set_id": "fire_and_fealty",
+    "id": "91008",
+    "illustrator": "",
+    "position": 8,
+    "quantity": 3,
+    "released_by": "santa",
+    "flavor": "<i>And we will follow...</i>"
+  },
+  {
+    "card_id": "katelin_perfected_design",
+    "card_set_id": "fire_and_fealty",
+    "id": "91009",
+    "illustrator": "",
+    "position": 9,
+    "quantity": 1,
+    "released_by": "santa",
+    "flavor": "<i>U, I, Makes ME.</i>"
+  },
+  {
+    "card_id": "efficiency_chip",
+    "card_set_id": "fire_and_fealty",
+    "id": "91010",
+    "illustrator": "",
+    "position": 10,
+    "quantity": 3,
+    "released_by": "santa",
+    "flavor": "<i>Let's download some RAM.</i>"
+  },
+  {
+    "card_id": "power_relay",
+    "card_set_id": "fire_and_fealty",
+    "id": "91011",
+    "illustrator": "",
+    "position": 11,
+    "quantity": 3,
+    "released_by": "santa",
+    "flavor": "<i>Reaching maximum power output.</i>"
+  },
+  {
+    "card_id": "bloodhound",
+    "card_set_id": "fire_and_fealty",
+    "id": "91012",
+    "illustrator": "",
+    "position": 12,
+    "quantity": 3,
+    "released_by": "santa",
+    "flavor": "<i>On the scent.</i>"
+  },
+  {
+    "card_id": "fetch",
+    "card_set_id": "fire_and_fealty",
+    "id": "91013",
+    "illustrator": "",
+    "position": 13,
+    "quantity": 3,
+    "released_by": "santa",
+    "flavor": "<i>\"I can find just about anything in there.\" - Nova</i>"
+  },
+  {
+    "card_id": "ali-ci\u00f3n_labs_efficiency\u2019s_finest",
+    "card_set_id": "fire_and_fealty",
+    "id": "91014",
+    "illustrator": "",
+    "position": 14,
+    "quantity": 1,
+    "released_by": "santa",
+    "flavor": "<i>The forefront of technology.</i>"
+  },
+  {
+    "card_id": "bras\u00edlia_defense_system",
+    "card_set_id": "fire_and_fealty",
+    "id": "91015",
+    "illustrator": "",
+    "position": 15,
+    "quantity": 3,
+    "released_by": "santa"
+  },
+  {
+    "card_id": "muriel_3.0",
+    "card_set_id": "fire_and_fealty",
+    "id": "91016",
+    "illustrator": "",
+    "position": 16,
+    "quantity": 3,
+    "released_by": "santa"
+  },
+  {
+    "card_id": "corporate_efficiency_zone",
+    "card_set_id": "fire_and_fealty",
+    "id": "91017",
+    "illustrator": "",
+    "position": 17,
+    "quantity": 3,
+    "released_by": "santa",
+    "flavor": "<i>It's 9 o'clock somewhere.</i>"
+  },
+  {
+    "card_id": "takamanohara_shaping_reality",
+    "card_set_id": "fire_and_fealty",
+    "id": "91018",
+    "illustrator": "",
+    "position": 18,
+    "quantity": 1,
+    "released_by": "santa",
+    "flavor": "<i>Where gods are born.</i>"
+  },
+  {
+    "card_id": "nope",
+    "card_set_id": "fire_and_fealty",
+    "id": "91019",
+    "illustrator": "",
+    "position": 19,
+    "quantity": 3,
+    "released_by": "santa",
+    "flavor": "<i>I don't think so...</i>"
+  },
+  {
+    "card_id": "blattodea_genomics",
+    "card_set_id": "fire_and_fealty",
+    "id": "91020",
+    "illustrator": "",
+    "position": 20,
+    "quantity": 3,
+    "released_by": "santa",
+    "flavor": "<i>Capturing nature's resiliency.</i>"
+  },
+  {
+    "card_id": "coercion",
+    "card_set_id": "fire_and_fealty",
+    "id": "91021",
+    "illustrator": "",
+    "position": 21,
+    "quantity": 3,
+    "released_by": "santa",
+    "flavor": "<i>Your mind will never be free.</i>"
+  },
+  {
+    "card_id": "nbn_curated_content_",
+    "card_set_id": "fire_and_fealty",
+    "id": "91022",
+    "illustrator": "",
+    "position": 22,
+    "quantity": 1,
+    "released_by": "santa",
+    "flavor": "<i>GLS Systems Procuring Cyberspace.</i>"
+  },
+  {
+    "card_id": "project_astro",
+    "card_set_id": "fire_and_fealty",
+    "id": "91023",
+    "illustrator": "",
+    "position": 23,
+    "quantity": 3,
+    "released_by": "santa",
+    "flavor": "<i>Remastering the AstroScript Program.</i>"
+  },
+  {
+    "card_id": "superposition",
+    "card_set_id": "fire_and_fealty",
+    "id": "91024",
+    "illustrator": "",
+    "position": 24,
+    "quantity": 3,
+    "released_by": "santa",
+    "flavor": "<i>Schr\u00f6dinger's QPM.</i>"
+  },
+  {
+    "card_id": "investment_fund",
+    "card_set_id": "fire_and_fealty",
+    "id": "91025",
+    "illustrator": "",
+    "position": 25,
+    "quantity": 3,
+    "released_by": "santa",
+    "flavor": "<i>Every market can be manipulated.</i>"
+  },
+  {
+    "card_id": "dividends",
+    "card_set_id": "fire_and_fealty",
+    "id": "91026",
+    "illustrator": "",
+    "position": 26,
+    "quantity": 6,
+    "released_by": "santa"
+  },
+  {
+    "card_id": "weyland_consortium_building_the_bedrock",
+    "card_set_id": "fire_and_fealty",
+    "id": "91027",
+    "illustrator": "",
+    "position": 27,
+    "quantity": 1,
+    "released_by": "santa",
+    "flavor": "<i>Secure Cyberspace.</i>"
+  },
+  {
+    "card_id": "archives_kernel",
+    "card_set_id": "fire_and_fealty",
+    "id": "91028",
+    "illustrator": "",
+    "position": 28,
+    "quantity": 1,
+    "released_by": "santa"
+  },
+  {
+    "card_id": "hq_kernel",
+    "card_set_id": "fire_and_fealty",
+    "id": "91029",
+    "illustrator": "",
+    "position": 29,
+    "quantity": 1,
+    "released_by": "santa"
+  },
+  {
+    "card_id": "r&d_kernel",
+    "card_set_id": "fire_and_fealty",
+    "id": "91030",
+    "illustrator": "",
+    "position": 30,
+    "quantity": 1,
+    "released_by": "santa"
+  },
+  {
+    "card_id": "public_intimidation",
+    "card_set_id": "fire_and_fealty",
+    "id": "91031",
+    "illustrator": "",
+    "position": 31,
+    "quantity": 3,
+    "released_by": "santa",
+    "flavor": "<i>License to enforce.</i>"
+  },
+  {
+    "card_id": "corporate_loan",
+    "card_set_id": "fire_and_fealty",
+    "id": "91032",
+    "illustrator": "",
+    "position": 32,
+    "quantity": 3,
+    "released_by": "santa",
+    "flavor": "<i>Inadrobart: fixing today's problems.</i>"
+  },
+  {
+    "card_id": "subdivision",
+    "card_set_id": "fire_and_fealty",
+    "id": "91033",
+    "illustrator": "",
+    "position": 33,
+    "quantity": 1,
+    "released_by": "santa"
+  },
+  {
+    "card_id": "change_in_leadership",
+    "card_set_id": "fire_and_fealty",
+    "id": "91034",
+    "illustrator": "",
+    "position": 34,
+    "quantity": 3,
+    "released_by": "santa",
+    "flavor": "<i>I promise I can turn this ship around, or I'll throw myself overboard.</i>"
+  },
+  {
+    "card_id": "40ycr_chip",
+    "card_set_id": "fire_and_fealty",
+    "id": "91035",
+    "illustrator": "",
+    "position": 35,
+    "quantity": 3,
+    "released_by": "santa",
+    "flavor": "<i>\"One mine of many.\" - New Angeles Most Wanted</i>"
+  }
+]
