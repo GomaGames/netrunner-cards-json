@@ -25,10 +25,7 @@ if os.path.isfile(json_path):
         for row in pack_json:
             card_json_path = "./v2/cards/%s.json" % row['id']
             if 'subtypes' in row:
-                try:
-                    row['subtypes'] = json.loads(row['subtypes'])
-                except:
-                    pass
+                row['subtypes'] = [v.replace('-','_') for v in row['subtypes']]
             if 'advancement_requirement' in row:
                 row['advancement_requirement'] = int(row['advancement_requirement'])
             if 'agenda_points' in row:

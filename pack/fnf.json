@@ -347,7 +347,7 @@
     "id": "muriel_3.0",
     "subtypes": [
       "bioroid",
-      "code_gate"
+      "code-gate"
     ],
     "keywords": "Bioroid - Code Gate",
     "cost": "7",
