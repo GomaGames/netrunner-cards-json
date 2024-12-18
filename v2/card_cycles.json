@@ -193,7 +193,6 @@
     "legacy_code": "custom-expansions",
     "name": "Custom Expansions",
     "position": 34,
-    "rotated": false,
-    "size": 1
+    "released_by": "charlie"
   }
 ]
